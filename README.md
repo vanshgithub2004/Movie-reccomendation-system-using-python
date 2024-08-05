@@ -1,5 +1,5 @@
 Step 1: Set Up Python Environment
-Install Python: Make sure you have Python installed. You can download it from the official Python website.
+Install Python: Make sure you have Python installed. You can download it from the official website.  https://www.python.org/.
 
 Create a Virtual Environment (Optional but recommended):
 python -m venv movie_recommender_env
